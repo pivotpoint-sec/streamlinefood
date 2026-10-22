@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://streamlinefood.com/sitemap.xml
